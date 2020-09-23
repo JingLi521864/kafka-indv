@@ -1,7 +1,7 @@
 # kafka-indv
 
 ## Install Kafka first
-- [kafka](http://apache.forsale.plus/kafka/2.6.0/kafka_2.13-2.6.0.tgz)
+- [kafka](http://apache.forsale.plus/kafka/2.6.0/kafka_2.13-2.6.0.tgz) this is the link what I used
 
 ## Run Zookeeper Service (in C:\kafka folder)
 - .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
